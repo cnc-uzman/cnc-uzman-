@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CNC Uzmanı - İsmail</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #333;
+        }
+        .contact {
+            margin-top: 20px;
+            font-size: 18px;
+        }
+        .contact a {
+            text-decoration: none;
+            color: #007BFF;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>CNC Torna & Freze Uzmanı</h1>
+        <h2>20 Yıllık Tecrübe</h2>
+        <p>✅ CNC Tezgah Ayarı & Optimizasyonu</p>
+        <p>✅ CAD/CAM Modelleme & Programlama</p>
+        <p>✅ Talaşlı İmalat Danışmanlığı</p>
+        <p>✅ Özel Kesim Stratejileri</p>
+        
+        <h3>İletişim</h3>
+        <p class="contact">📞 <a href="tel:+905362812144">+90 536 281 21 44</a></p>
+        <p class="contact">📧 <a href="mailto:reddragonismail@gmail.com">reddragonismail@gmail.com</a></p>
+    </div>
+</body>
+</html>
